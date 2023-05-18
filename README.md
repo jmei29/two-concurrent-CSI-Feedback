@@ -17,6 +17,6 @@ To implement this project, you need to ensure the following requirements are ins
 # Project Preparation
 
 ## Channel generation
-The channel state information (CSI) matrix is generated from COST2100 model. You can generate your own dataset according to the open source library of COST2100 as well. The details of data pre-processing can be found in our paper.
+The channel state information (CSI) matrix is generated from COST2100 model. You can generate your own dataset according to the open source library of [COST2100](https://github.com/cost2100/cost2100) as well. The details of data pre-processing can be found in our paper.
 
 ## Project Tree Arrangement
