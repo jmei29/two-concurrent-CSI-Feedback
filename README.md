@@ -30,7 +30,8 @@ home # The cloned repository of "two-concurrent-CSI-Feedback"
 │   │     ├── MARL_AP_PER_train_v2.py
 │   │     ├── MARL_AP_part.py
 │   │     ├── MARL_STA_part.py
-│   │     ├── MARL_STA_PER_train_v2.py 
+│   │     ├── MARL_STA_PER_train_v2.py
+│   ├── MARL_DNN # saving DNN model of Agents
 │   ├── main_MARL_PER_train_v3_3_2.m
 │   ├── main_MARL_for_test_v2.m
 │   ├── main_MARL_PER_train_validate_Q_Est.m
