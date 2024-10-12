@@ -1,8 +1,8 @@
 # Overview
-This is the Matlab and PyTorch implementation of the paper "Learning to Feedback: A Two-concurrent Channel-related Information Feedback Mechanism for Next-Generation Wi-Fi". If you feel this repo helpful, please cite our paper:
+This is the Matlab and PyTorch implementation of the paper "Learning Aided Closed-loop Feedback: A Concurrent Dual Channel Information Feedback Mechanism for Wi-Fi". If you feel this repo helpful, please cite our paper:
 ```
 @article{Jie2023,
-  title={Learning to Feedback: A Two-concurrent Channel-related Information Feedback Mechanism for Next-Generation {Wi-Fi}},
+  title={Learning Aided Closed-loop Feedback: A Concurrent Dual Channel Information Feedback Mechanism for {Wi-Fi}},
   author={Jie, Mei，Xianbin, Wang， and Kan Zheng},
   journal={IEEE TWC},
   year={2024, Early Access}
