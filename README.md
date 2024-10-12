@@ -3,9 +3,9 @@ This is the Matlab and PyTorch implementation of the paper "Learning to Feedback
 ```
 @article{Jie2023,
   title={Learning to Feedback: A Two-concurrent Channel-related Information Feedback Mechanism for Next-Generation {Wi-Fi}},
-  author={Jie, Mei and Xianbin, Wang},
-  journal={},
-  year={2023}
+  author={Jie, Mei，Xianbin, Wang， and Kan Zheng},
+  journal={IEEE TWC},
+  year={2024, Early Access}
 }
 ```
 # Requirements
