@@ -16,9 +16,6 @@ To implement this project, you need to ensure the following requirements are ins
 
 # Project Preparation
 
-## Channel generation
-The channel state information (CSI) matrix is generated from COST2100 model. You can generate your own dataset according to the open source library of [COST2100](https://github.com/cost2100/cost2100) as well. The details of data pre-processing can be found in our paper.
-
 ## Project Tree Arrangement
 We recommend you to arrange the project tree as follows.
 
@@ -64,6 +61,12 @@ home # The cloned repository of "two-concurrent-CSI-Feedback"
 ├── CSI data set  # The data folder
 ...
 ```
+# Run simulation
+- CSI data generation: The channel state information (CSI) matrix is generated from COST2100 model. You can generate your own dataset according to the open source library of [COST2100](https://github.com/cost2100/cost2100) as well. The details of data pre-processing can be found in our paper.
+- For detailed parameters, please refer to the "Parameter_setting_of_scenario.m" in the folder.
+- Training: Run "main_MARL_PER_train_v3_3_2.m" in the folder of "Channel Sounding Procedure".
+- Testing: Run "main_MARL_for_test_v2.m" and "main_MARL_PER_train_validate_Q_Est.m" in the folder of "Channel Sounding Procedure".
+
 # Contact
 If you have any problem with this code, please feel free to contact meijie@nbu.eud.cn.
 
