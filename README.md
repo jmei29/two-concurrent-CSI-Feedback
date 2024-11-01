@@ -4,7 +4,7 @@ This is the Matlab and PyTorch implementation of the paper "Learning Aided Close
 @ARTICLE{10740600,
   author={Mei, Jie and Wang, Xianbin and Zheng, Kan},
   journal={IEEE Transactions on Wireless Communications}, 
-  title={Learning Aided Closed-loop Feedback: A Concurrent Dual Channel Information Feedback Mechanism for Wi-Fi}, 
+  title={Learning Aided Closed-loop Feedback: A Concurrent Dual Channel Information Feedback Mechanism for {Wi-Fi}}, 
   year={2024},
   volume={},
   number={},
